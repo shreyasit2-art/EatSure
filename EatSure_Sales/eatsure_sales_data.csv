@@ -1,0 +1,201 @@
+Order ID,Order Date,City,Brand,Category,Order Value,Payment mode,Delivery time mins
+1001,01-01-2025,Hyderabad,Faasos,Pizza,1106,Debit Card,45
+1002,02-01-2025,Pune,Faasos,Wraps,840,UPI,53
+1003,03-01-2025,Bengaluru,Faasos,Pizza,434,UPI,64
+1004,04-01-2025,Pune,Behrouz Biryani,Pizza,546,Credit Card,25
+1005,05-01-2025,Pune,Behrouz Biryani,Wraps,161,Credit Card,56
+1006,06-01-2025,Delhi,Oven Story,Wraps,648,Debit Card,52
+1007,07-01-2025,Bengaluru,Oven Story,Wraps,903,Debit Card,41
+1008,08-01-2025,Bengaluru,EatSure,Biryani,184,Debit Card,40
+1009,09-01-2025,Bengaluru,EatSure,Desserts,876,Credit Card,25
+1010,10-01-2025,Pune,Oven Story,Biryani,998,Cash,25
+1011,11-01-2025,Hyderabad,Behrouz Biryani,Biryani,239,Cash,23
+1012,12-01-2025,Bengaluru,Faasos,Pizza,925,Credit Card,49
+1013,13-01-2025,Pune,Oven Story,Wraps,754,Credit Card,30
+1014,14-01-2025,Delhi,EatSure,Desserts,1119,Credit Card,49
+1015,15-01-2025,Hyderabad,Behrouz Biryani,Pizza,1171,Credit Card,50
+1016,16-01-2025,Delhi,Oven Story,Biryani,567,Credit Card,43
+1017,17-01-2025,Hyderabad,Oven Story,Wraps,264,Credit Card,28
+1018,18-01-2025,Pune,Behrouz Biryani,Pizza,766,Debit Card,22
+1019,19-01-2025,Mumbai,Oven Story,Wraps,975,Debit Card,50
+1020,20-01-2025,Hyderabad,Behrouz Biryani,Pizza,562,Debit Card,59
+1021,21-01-2025,Delhi,Faasos,Wraps,878,Debit Card,56
+1022,22-01-2025,Pune,Behrouz Biryani,Biryani,1170,Credit Card,55
+1023,23-01-2025,Hyderabad,Behrouz Biryani,Desserts,910,Cash,43
+1024,24-01-2025,Mumbai,Behrouz Biryani,Biryani,825,UPI,50
+1025,25-01-2025,Mumbai,Oven Story,Desserts,606,Credit Card,25
+1026,26-01-2025,Bengaluru,Oven Story,Wraps,1069,UPI,21
+1027,27-01-2025,Bengaluru,Behrouz Biryani,Pizza,341,Cash,39
+1028,28-01-2025,Delhi,Oven Story,Biryani,888,Debit Card,47
+1029,29-01-2025,Hyderabad,EatSure,Desserts,1127,Cash,30
+1030,30-01-2025,Hyderabad,EatSure,Biryani,1158,Credit Card,23
+1031,31-01-2025,Bengaluru,Oven Story,Desserts,245,Debit Card,34
+1032,01-02-2025,Hyderabad,Oven Story,Biryani,812,Credit Card,25
+1033,02-02-2025,Hyderabad,Behrouz Biryani,Desserts,186,Debit Card,49
+1034,03-02-2025,Mumbai,Faasos,Desserts,428,UPI,57
+1035,04-02-2025,Bengaluru,Oven Story,Wraps,366,UPI,21
+1036,05-02-2025,Pune,EatSure,Desserts,1016,UPI,34
+1037,06-02-2025,Bengaluru,Behrouz Biryani,Wraps,1022,Cash,30
+1038,07-02-2025,Pune,Oven Story,Desserts,211,Credit Card,27
+1039,08-02-2025,Mumbai,EatSure,Pizza,745,Cash,45
+1040,09-02-2025,Delhi,EatSure,Pizza,878,UPI,64
+1041,10-02-2025,Hyderabad,Faasos,Pizza,546,Credit Card,63
+1042,11-02-2025,Mumbai,Behrouz Biryani,Desserts,848,UPI,24
+1043,12-02-2025,Hyderabad,Behrouz Biryani,Wraps,1192,Cash,25
+1044,13-02-2025,Delhi,Faasos,Wraps,326,Cash,45
+1045,14-02-2025,Delhi,Faasos,Desserts,545,Cash,23
+1046,15-02-2025,Mumbai,Behrouz Biryani,Pizza,594,UPI,38
+1047,16-02-2025,Delhi,Behrouz Biryani,Pizza,225,Credit Card,39
+1048,17-02-2025,Pune,Oven Story,Wraps,414,Credit Card,52
+1049,18-02-2025,Delhi,Oven Story,Pizza,604,UPI,39
+1050,19-02-2025,Hyderabad,Faasos,Biryani,867,Credit Card,31
+1051,20-02-2025,Hyderabad,Oven Story,Wraps,884,UPI,20
+1052,21-02-2025,Hyderabad,EatSure,Pizza,1000,Credit Card,45
+1053,22-02-2025,Hyderabad,Oven Story,Wraps,293,Debit Card,33
+1054,23-02-2025,Pune,Oven Story,Biryani,1034,Debit Card,57
+1055,24-02-2025,Bengaluru,EatSure,Wraps,545,Cash,56
+1056,25-02-2025,Mumbai,Faasos,Wraps,1198,Debit Card,30
+1057,26-02-2025,Hyderabad,EatSure,Wraps,1097,Debit Card,55
+1058,27-02-2025,Delhi,Oven Story,Wraps,1040,Debit Card,32
+1059,28-02-2025,Hyderabad,Faasos,Biryani,718,UPI,62
+1060,01-03-2025,Delhi,Oven Story,Desserts,258,Debit Card,22
+1061,02-03-2025,Delhi,EatSure,Wraps,1084,Debit Card,52
+1062,03-03-2025,Hyderabad,EatSure,Wraps,547,Cash,25
+1063,04-03-2025,Pune,Oven Story,Pizza,783,Debit Card,29
+1064,05-03-2025,Delhi,Behrouz Biryani,Wraps,882,Debit Card,24
+1065,06-03-2025,Delhi,Behrouz Biryani,Pizza,384,Credit Card,42
+1066,07-03-2025,Hyderabad,EatSure,Desserts,807,Cash,29
+1067,08-03-2025,Delhi,EatSure,Biryani,900,Cash,63
+1068,09-03-2025,Delhi,Behrouz Biryani,Biryani,737,Cash,21
+1069,10-03-2025,Hyderabad,Behrouz Biryani,Desserts,1182,Cash,32
+1070,11-03-2025,Hyderabad,Oven Story,Biryani,1103,Cash,59
+1071,12-03-2025,Mumbai,Oven Story,Desserts,641,Cash,21
+1072,13-03-2025,Pune,Behrouz Biryani,Desserts,1062,UPI,39
+1073,14-03-2025,Pune,Oven Story,Desserts,319,Debit Card,20
+1074,15-03-2025,Delhi,Oven Story,Biryani,1095,Cash,56
+1075,16-03-2025,Pune,Faasos,Pizza,944,Debit Card,28
+1076,17-03-2025,Delhi,Oven Story,Desserts,783,Debit Card,36
+1077,18-03-2025,Mumbai,EatSure,Wraps,178,UPI,28
+1078,19-03-2025,Hyderabad,Oven Story,Biryani,488,Cash,30
+1079,20-03-2025,Hyderabad,Oven Story,Desserts,649,Credit Card,34
+1080,21-03-2025,Hyderabad,Behrouz Biryani,Desserts,660,UPI,43
+1081,22-03-2025,Pune,EatSure,Wraps,366,Credit Card,57
+1082,23-03-2025,Mumbai,Oven Story,Pizza,594,Debit Card,54
+1083,24-03-2025,Pune,Oven Story,Pizza,1025,Debit Card,49
+1084,25-03-2025,Pune,Faasos,Pizza,316,UPI,50
+1085,26-03-2025,Mumbai,Oven Story,Desserts,240,UPI,24
+1086,27-03-2025,Mumbai,Oven Story,Desserts,863,Credit Card,63
+1087,28-03-2025,Mumbai,Faasos,Desserts,188,Cash,33
+1088,29-03-2025,Mumbai,Behrouz Biryani,Biryani,322,Credit Card,30
+1089,30-03-2025,Hyderabad,Oven Story,Wraps,802,UPI,28
+1090,31-03-2025,Bengaluru,Faasos,Desserts,903,Credit Card,53
+1091,01-04-2025,Bengaluru,EatSure,Wraps,625,UPI,31
+1092,02-04-2025,Mumbai,Behrouz Biryani,Wraps,605,Credit Card,54
+1093,03-04-2025,Bengaluru,EatSure,Pizza,978,UPI,54
+1094,04-04-2025,Bengaluru,EatSure,Biryani,1044,UPI,20
+1095,05-04-2025,Mumbai,Faasos,Desserts,1174,UPI,59
+1096,06-04-2025,Bengaluru,Oven Story,Pizza,536,Cash,41
+1097,07-04-2025,Pune,Faasos,Pizza,497,Credit Card,48
+1098,08-04-2025,Delhi,Faasos,Desserts,339,Credit Card,27
+1099,09-04-2025,Delhi,Faasos,Wraps,654,Credit Card,30
+1100,10-04-2025,Mumbai,Faasos,Pizza,973,UPI,60
+1101,11-04-2025,Hyderabad,Behrouz Biryani,Wraps,1078,Credit Card,56
+1102,12-04-2025,Mumbai,Oven Story,Biryani,1083,Credit Card,33
+1103,13-04-2025,Hyderabad,EatSure,Wraps,283,UPI,49
+1104,14-04-2025,Delhi,EatSure,Biryani,207,Debit Card,54
+1105,15-04-2025,Mumbai,Oven Story,Wraps,834,UPI,40
+1106,16-04-2025,Pune,EatSure,Pizza,821,Credit Card,56
+1107,17-04-2025,Bengaluru,Oven Story,Pizza,322,UPI,24
+1108,18-04-2025,Hyderabad,EatSure,Biryani,964,Debit Card,38
+1109,19-04-2025,Bengaluru,Faasos,Desserts,229,UPI,33
+1110,20-04-2025,Bengaluru,EatSure,Biryani,1035,Credit Card,45
+1111,21-04-2025,Mumbai,Oven Story,Biryani,352,Debit Card,23
+1112,22-04-2025,Bengaluru,Oven Story,Wraps,913,Cash,44
+1113,23-04-2025,Pune,Oven Story,Wraps,196,Credit Card,64
+1114,24-04-2025,Bengaluru,Oven Story,Biryani,805,Debit Card,61
+1115,25-04-2025,Mumbai,Oven Story,Pizza,620,Debit Card,44
+1116,26-04-2025,Pune,Behrouz Biryani,Wraps,1120,Cash,37
+1117,27-04-2025,Delhi,Behrouz Biryani,Desserts,1185,UPI,59
+1118,28-04-2025,Bengaluru,EatSure,Wraps,885,UPI,27
+1119,29-04-2025,Mumbai,Oven Story,Wraps,933,Credit Card,58
+1120,30-04-2025,Delhi,EatSure,Desserts,1117,Cash,59
+1121,01-05-2025,Delhi,Oven Story,Biryani,507,UPI,33
+1122,02-05-2025,Hyderabad,Oven Story,Desserts,1121,Cash,51
+1123,03-05-2025,Pune,Behrouz Biryani,Biryani,817,UPI,57
+1124,04-05-2025,Bengaluru,Behrouz Biryani,Biryani,522,Debit Card,52
+1125,05-05-2025,Mumbai,Faasos,Biryani,1181,UPI,42
+1126,06-05-2025,Hyderabad,Behrouz Biryani,Desserts,825,Cash,34
+1127,07-05-2025,Pune,Faasos,Biryani,239,Debit Card,52
+1128,08-05-2025,Hyderabad,Faasos,Pizza,847,Debit Card,44
+1129,09-05-2025,Pune,Faasos,Desserts,689,Debit Card,36
+1130,10-05-2025,Pune,Faasos,Pizza,881,Cash,52
+1131,11-05-2025,Bengaluru,Faasos,Biryani,1018,Credit Card,21
+1132,12-05-2025,Pune,EatSure,Wraps,190,Credit Card,33
+1133,13-05-2025,Hyderabad,Behrouz Biryani,Biryani,889,Credit Card,59
+1134,14-05-2025,Pune,Faasos,Pizza,651,Cash,59
+1135,15-05-2025,Bengaluru,Oven Story,Pizza,1108,Debit Card,58
+1136,16-05-2025,Bengaluru,Behrouz Biryani,Desserts,1078,Credit Card,25
+1137,17-05-2025,Hyderabad,Behrouz Biryani,Wraps,610,Cash,25
+1138,18-05-2025,Delhi,Faasos,Desserts,881,Credit Card,22
+1139,19-05-2025,Delhi,EatSure,Pizza,901,UPI,26
+1140,20-05-2025,Pune,Faasos,Biryani,1074,Credit Card,27
+1141,21-05-2025,Mumbai,EatSure,Wraps,1058,Credit Card,61
+1142,22-05-2025,Pune,Oven Story,Biryani,539,Debit Card,34
+1143,23-05-2025,Hyderabad,Behrouz Biryani,Biryani,1032,Cash,48
+1144,24-05-2025,Hyderabad,Oven Story,Wraps,405,Debit Card,52
+1145,25-05-2025,Hyderabad,EatSure,Desserts,858,Debit Card,49
+1146,26-05-2025,Hyderabad,EatSure,Biryani,599,Debit Card,58
+1147,27-05-2025,Hyderabad,Oven Story,Pizza,159,Debit Card,46
+1148,28-05-2025,Bengaluru,EatSure,Biryani,973,Debit Card,55
+1149,29-05-2025,Delhi,Oven Story,Wraps,947,Credit Card,48
+1150,30-05-2025,Hyderabad,Behrouz Biryani,Wraps,1026,Debit Card,57
+1151,31-05-2025,Mumbai,Oven Story,Wraps,1178,Debit Card,52
+1152,01-06-2025,Mumbai,Behrouz Biryani,Desserts,1165,Cash,56
+1153,02-06-2025,Mumbai,Oven Story,Biryani,523,UPI,46
+1154,03-06-2025,Mumbai,EatSure,Desserts,295,Credit Card,52
+1155,04-06-2025,Bengaluru,Oven Story,Desserts,373,Credit Card,23
+1156,05-06-2025,Mumbai,EatSure,Wraps,326,Credit Card,41
+1157,06-06-2025,Hyderabad,Oven Story,Wraps,1002,Debit Card,21
+1158,07-06-2025,Pune,Oven Story,Desserts,212,Debit Card,29
+1159,08-06-2025,Mumbai,Faasos,Biryani,976,Debit Card,24
+1160,09-06-2025,Bengaluru,EatSure,Pizza,944,Cash,29
+1161,10-06-2025,Bengaluru,Faasos,Desserts,838,UPI,52
+1162,11-06-2025,Mumbai,EatSure,Biryani,254,Debit Card,57
+1163,12-06-2025,Pune,Faasos,Wraps,660,UPI,32
+1164,13-06-2025,Mumbai,Behrouz Biryani,Wraps,534,Cash,50
+1165,14-06-2025,Bengaluru,Oven Story,Biryani,554,Credit Card,55
+1166,15-06-2025,Delhi,EatSure,Pizza,972,Debit Card,64
+1167,16-06-2025,Hyderabad,EatSure,Wraps,667,UPI,43
+1168,17-06-2025,Bengaluru,Oven Story,Wraps,625,UPI,34
+1169,18-06-2025,Mumbai,EatSure,Wraps,858,Debit Card,48
+1170,19-06-2025,Hyderabad,EatSure,Biryani,920,Credit Card,27
+1171,20-06-2025,Mumbai,Faasos,Desserts,1196,Credit Card,24
+1172,21-06-2025,Mumbai,EatSure,Wraps,1146,Credit Card,48
+1173,22-06-2025,Delhi,Behrouz Biryani,Desserts,826,Cash,23
+1174,23-06-2025,Hyderabad,Behrouz Biryani,Pizza,863,UPI,31
+1175,24-06-2025,Hyderabad,Oven Story,Wraps,232,UPI,64
+1176,25-06-2025,Delhi,EatSure,Wraps,606,UPI,21
+1177,26-06-2025,Bengaluru,Oven Story,Pizza,150,Cash,46
+1178,27-06-2025,Mumbai,Behrouz Biryani,Wraps,200,UPI,50
+1179,28-06-2025,Pune,EatSure,Desserts,834,Cash,55
+1180,29-06-2025,Mumbai,EatSure,Biryani,866,Credit Card,55
+1181,30-06-2025,Mumbai,Oven Story,Desserts,598,Debit Card,45
+1182,01-07-2025,Bengaluru,Behrouz Biryani,Biryani,1030,UPI,62
+1183,02-07-2025,Mumbai,EatSure,Biryani,637,UPI,46
+1184,03-07-2025,Delhi,Oven Story,Desserts,183,Credit Card,24
+1185,04-07-2025,Delhi,Behrouz Biryani,Desserts,244,Debit Card,39
+1186,05-07-2025,Hyderabad,Oven Story,Desserts,303,Cash,30
+1187,06-07-2025,Pune,Faasos,Desserts,399,Debit Card,29
+1188,07-07-2025,Mumbai,EatSure,Pizza,823,Credit Card,59
+1189,08-07-2025,Mumbai,Faasos,Wraps,587,Credit Card,57
+1190,09-07-2025,Bengaluru,Behrouz Biryani,Biryani,267,Debit Card,25
+1191,10-07-2025,Delhi,Faasos,Desserts,920,Cash,27
+1192,11-07-2025,Pune,Faasos,Desserts,417,Cash,42
+1193,12-07-2025,Hyderabad,Behrouz Biryani,Desserts,385,UPI,45
+1194,13-07-2025,Delhi,Oven Story,Pizza,538,Cash,62
+1195,14-07-2025,Hyderabad,Faasos,Desserts,1139,Debit Card,31
+1196,15-07-2025,Bengaluru,Oven Story,Desserts,912,Credit Card,45
+1197,16-07-2025,Bengaluru,Faasos,Desserts,550,UPI,32
+1198,17-07-2025,Mumbai,Oven Story,Wraps,773,UPI,59
+1199,18-07-2025,Pune,Behrouz Biryani,Pizza,916,Credit Card,37
+1200,19-07-2025,Hyderabad,Faasos,Desserts,1068,Cash,44
